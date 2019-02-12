@@ -1,0 +1,13 @@
+
+Population density disaggregated with Corine land cover 2000
+
+Gallego F.J., 2010, A population density grid of the European Union, Population and Environment. 31: 460-473
+
+https://www.eea.europa.eu/ds_resolveuid/F6907877-C585-45DE-B93F-E7FC0975DE2A
+
+
+UN SDG Indicator
+
+Indicator 11.6.2: Annual mean levels of fine particulate matter (eg. PM 2.5 and PM 10) in cities (population weighted)
+
+https://unstats.un.org/wiki/display/SDGeHandbook/Indicator+11.6.2
