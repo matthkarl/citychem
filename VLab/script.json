@@ -1,0 +1,9 @@
+{
+  "scripts": [
+    {
+      "repoPath": "citypm/citypm.R",
+      "targetPath": "citypm/citypm.R",
+      "pathType": "FILE"
+ }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+
+  "image": "matthkarl/cpm_image",
+
+  "privateimage": false,
+
+  "resources": {
+    "memory_mb": "5000",
+    "cpu_units": ""
+ },
+  "container": {
+    "entryPoint": [
+      "/bin/bash",
+      "-c"
+ ],
+    "command": [
+      "mkdir output/ && cd citypm/ && Rscript citypm.R"
+ ]
+  }
+}
