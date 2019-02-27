@@ -14,7 +14,7 @@
       "-c"
  ],
     "command": [
-      "mkdir output/ && cd citypm/ && Rscript citypm.R"
+      "cd citypm/ && Rscript citypm.R"
  ]
   }
 }
