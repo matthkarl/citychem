@@ -20,8 +20,8 @@ statrecp <- "statrecpyearmean.nc"
 ### path of static output
 output <- "../output/"
 ### format of output (csv, tif, nc or asc)
-#format <- "tif"
-format <- "csv"
+format <- "tif"
+#format <- "csv"
 ###
 ### end of input section
 ###############################################################################################################################
