@@ -46,19 +46,19 @@
       "id": "DataObject_output3",
       "outputType": "individual",
       "valueType": "value",
-      "description": "PWE PM10 csv",
-      "name": "PWE PM10 csv",
+      "description": "PWE PM10 tif",
+      "name": "PWE PM10 tif",
       "valueSchema": "url",
-      "target": "output/pwe_pm10.csv"
+      "target": "output/pwe_pm10.tif"
  }, 
     {
       "id": "DataObject_output4",
       "outputType": "individual",
       "valueType": "value",
-      "description": "PWE PM2.5 csv",
-      "name": "PWE PM2.5 csv",
+      "description": "PWE PM2.5 tif",
+      "name": "PWE PM2.5 tif",
       "valueSchema": "url",
-      "target": "output/pwe_pm2.5.csv"
+      "target": "output/pwe_pm2.5.tif"
  }
   ]
 }
